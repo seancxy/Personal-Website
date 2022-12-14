@@ -3,32 +3,32 @@
 // Website related settings
 const settings = {
   isSplash: true, // Change this to true if you want to use the splash screen.
-  useCustomCursor: true, // Change this to false if you want the good'ol cursor
+  useCustomCursor: false, // Change this to false if you want the good'ol cursor
   googleTrackingID: "UA-174238252-2",
 };
 
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
+  title2: "Xiang Yong",
+  logo_name: "cheng.xy()",
+  nickname: "xy",
+  full_name: "Xiang Yong",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
-  mail: "mailto:hkanani191@gmail.com",
+    "https://docs.google.com/document/d/156bue5aYjoj921DMdLGbP8IhbMW1KuBl/edit?usp=sharing&ouid=104837421351277061787&rtpof=true&sd=true",
+  mail: "mailto:seanchengxy13@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
-  facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  github: "https://github.com/seancxy",
+  linkedin: "https://www.linkedin.com/in/chengxy/",
+  gmail: "seanchengxy13@gmail.com",
+  // gitlab: "https://gitlab.com/harikanani",
+  // facebook: "https://www.facebook.com/harikrishan.kanani/",
+  // twitter: "https://twitter.com/Harikrushn9",
+  instagram: "https://www.instagram.com/scxxy/",
 };
 
 const skills = {
@@ -274,31 +274,30 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Shantilal Shah Engineering College",
-      subtitle: "Bachelor in Information Technology",
-      logo_path: "ssec.png",
-      alt_name: "SSEC",
-      duration: "2021 - Present",
+      title: "National University of Singapore",
+      subtitle: "Bachelor of Computing in Information Systems",
+      logo_path: "nus.png",
+      alt_name: "NUS",
+      duration: "2020 - Present",
       descriptions: [
-        "⚡ I'm currently pursuing my bachelors in Information Technology.",
-        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "⚡ I'm currently pursuing my bachelors in Information Systems.",
+        "todo",
       ],
-      website_link: "http://www.ssgec.ac.in/",
+      website_link: "https://www.comp.nus.edu.sg/programmes/ug/is/",
     },
     {
-      title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
-      subtitle: "Diploma in Information Technology",
-      logo_path: "ssgandhy.png",
-      alt_name: "SSGC",
-      duration: "2018 - 2021",
+      title: "Singapore Polytechnic",
+      subtitle: "Diploma in Businss & Information Technology",
+      logo_path: "sp.png",
+      alt_name: "SP",
+      duration: "2015 - 2018",
       descriptions: [
-        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "Graduated with Diplot with Merit",
+        "todo",
+        "todo",
+        "todo",
       ],
-      website_link: "http://www.ssgc.cteguj.in/",
+      website_link: "https://www.sp.edu.sg/soc",
     },
   ],
 };
