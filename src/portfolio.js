@@ -382,45 +382,38 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
-          title: "Node.js Backend Developer",
-          company: "Valora Infotech",
-          company_url: "http://valorainfotech.com/",
-          logo_path: "valora.jpg",
-          duration: "Nov 2021 - Present",
-          location: "Surat, Gujarat",
-          description: `Working on Mob-rule Application and Admin Panel Backend. I have worked on Socket.io,
-          Payment Gateway Integration and Microservice Architecture.
-          `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          title: "Teaching Assistant",
+          company: "NUS SChool of Computing",
+          company_url: "https://www.comp.nus.edu.sg/",
+          logo_path: "soc.png",
+          duration: "Aug 2022 - Dec 2022",
+          location: "Kent Ridge, Singapore",
+          description: `Assisted in the development and maintenance of a file management platform. 
+          Investigated all reported user issues and amended existing code accordingly. 
+          Supported data migration and data patching user requests`,
           color: "#0071C5",
         },
         {
-          title: "Node.js Backend Developer (Intern)",
-          company: "Valora Infotech",
-          company_url: "http://valorainfotech.com/",
-          logo_path: "valora.jpg",
-          duration: "Oct 2020 - Mar 2021",
-          location: "Surat, Gujarat",
-          description: `Train, manage and provide guidance to junior software development staff.
-          Work closely with the Project Manager and Team Leads on change request functions.
-          Develops new and maintains existing applications.
-          Increased productivity and problem-solving technics by 20%.
-          We primarily used PERN and MERN Stack. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
-          `,
-          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          title: "Software Engineer",
+          company: "National Computer Systems Group",
+          company_url: "https://www.ncs.co/en-sg/",
+          logo_path: "ncs.png",
+          duration: "May 2022 - Aug 2022",
+          location: "Ang Mo Kio, Singapore",
+          description: `Assisted in the development and maintenance of a file management platform. 
+          Investigated all reported user issues and amended existing code accordingly. 
+          Supported data migration and data patching user requests`,
           color: "#0071C5",
         },
         {
-          title: "Full Stack Developer (Freelancer)",
-          company: "NightOwls",
-          company_url: "http://nightowls.company/",
-          logo_path: "nightowls.jpg",
-          duration: "Sep 2020 - Oct 2020",
-          location: "Work From Home",
-          description: `Work closely with the Client and Team on change request functions.
-          We Primarily used LAMP Stack. 40% of my work was doing backend development, 30% of my work was designing database schemas, and 30% of my work was on maintain hosting and user traffics on the website.
-          `,
-          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
+          title: "Data Analyst",
+          company: "City Developments Limited",
+          company_url: "https://cdl.com.sg/",
+          logo_path: "cdl.png",
+          duration: "Apr 2017 - Aug 2017",
+          location: "Raffles Place, Singapore",
+          description: `Designed and created operational dashboards for service management using Tableau and SAP 
+          Generated data insights impacting operational and tactical decision making for several departments`,
           color: "#ee3c26",
         },
       ],
@@ -429,81 +422,25 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Community Lead",
-          company: "Bauddhik-Geeks",
-          company_url: "https://bauddhikgeeks.tech/",
-          logo_path: "bauddhikgeeks.png",
-          duration: "Sep 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Help Tech-Geeks so they get exposure to the technical world and enlighten their skills. Hence, the programming club highlight all the skills of the individual members and help them develop and groom their skills in a meaningful way. Help community members to learn and grow.",
+          title: "Student Volunteer",
+          company: "NUS Students' Community Service Club",
+          company_url: "https://nus-csc.org/",
+          logo_path: "csc.png",
+          duration: "Feb 2021 - Present",
+          location: "Commonwealth, Singapore",
+          description: `I am an active member of the L-derly befrienders program by NUS CSC 
+          where I reach out to elderly beneficiaries weekly to assist them with chores and engage them to uplift their spirits.`,
           color: "#FBBD18",
         },
         {
-          title: "Cross Winter of Code Mentor",
-          company: "CWOC",
-          company_url: "https://crosswoc.ieeedtu.in/",
-          logo_path: "cwoc.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
+          title: "Student Volunteer",
+          company: "Singapore Polytechnic",
+          company_url: "https://www.sp.edu.sg/",
+          logo_path: "sp.png",
+          duration: "Sep 2016 - October 2016",
+          location: "Bangkok, Thailand",
+          description: `Learning Express. Took part in an overseas community service program to rural Thailand to help improve daily living conditions`,
           color: "#4285F4",
-        },
-        {
-          title: "GDG Student Volunteer",
-          company: "Google Developer Groups",
-          company_url: "https://gdg.community.dev/",
-          logo_path: "gdg.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
-          color: "#D83B01",
-        },
-        {
-          title: "Postman Student Expert",
-          company: "Postman",
-          company_url: "https://www.postman.com/",
-          logo_path: "postman.png",
-          duration: "Feb 2020 - Present",
-          location: "Work From Home",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
-          color: "#D83B01",
-        },
-        {
-          title: "GitHub Student Developer",
-          company: "GitHub",
-          company_url: "https://github.com/",
-          logo_path: "github.png",
-          duration: "Nov 2019 - Present",
-          location: "Work from Home",
-          description:
-            "Contribute to Open Source Community and Open Source Project.",
-          color: "#040f26",
-        },
-        {
-          title: "Google Local Guide",
-          company: "Google Map",
-          company_url: "https://maps.google.com/localguides/",
-          logo_path: "localguide.png",
-          duration: "Sep 2018 - Present",
-          location: "Work From Home",
-          description:
-            "Day-to-day responsibilities of helping local businesses to spread their business to the world. Helping users by writing reviews about different locations and spaces such as shops, malls, etc.",
-          color: "#D83B01",
-        },
-        {
-          title: "E. F. I. Student Volunteer",
-          company: "ENVIRONMENTALIST FOUNDATION OF INDIA",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "efi.png",
-          duration: "Apr 2017 - Present",
-          location: "Work From Home",
-          description:
-            "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
-          color: "#5a900f",
         },
       ],
     },
