@@ -25,9 +25,6 @@ const socialMediaLinks = {
   github: "https://github.com/seancxy",
   linkedin: "https://www.linkedin.com/in/chengxy/",
   gmail: "seanchengxy13@gmail.com",
-  // gitlab: "https://gitlab.com/harikanani",
-  // facebook: "https://www.facebook.com/harikrishan.kanani/",
-  // twitter: "https://twitter.com/Harikrushn9",
   instagram: "https://www.instagram.com/scxxy/",
 };
 
@@ -101,13 +98,6 @@ const skills = {
             color: "#439743",
           },
         },
-        // {
-        //   skillName: "GraphQL",
-        //   fontAwesomeClassname: "simple-icons:graphql",
-        //   style: {
-        //     color: "#DE33A6",
-        //   },
-        // },
         {
           skillName: "Android",
           fontAwesomeClassname: "simple-icons:android",
@@ -136,13 +126,6 @@ const skills = {
             color: "#29B0EE",
           },
         },
-        // {
-        //   skillName: "Visual Basic",
-        //   fontAwesomeClassname: "simple-icons:dot-net",
-        //   style: {
-        //     color: "#029FCE",
-        //   },
-        // },
         {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
@@ -387,7 +370,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed one internship. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "I've completed a few internships and I am actively looking for internships. I volunteer frequently and love giving back to the community.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -462,17 +445,6 @@ const experience = {
             "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
           color: "#4285F4",
         },
-        // {
-        //   title: "Campus Hustler",
-        //   company: "Skillenza",
-        //   company_url: "https://skillenza.com/",
-        //   logo_path: "skillenza.png",
-        //   duration: "Feb 2021 - Present",
-        //   location: "Work from Home",
-        //   description:
-        //     "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
-        //   color: "#196acf",
-        // },
         {
           title: "GDG Student Volunteer",
           company: "Google Developer Groups",
