@@ -383,14 +383,16 @@ const experience = {
       experiences: [
         {
           title: "Teaching Assistant",
-          company: "NUS SChool of Computing",
+          company: "NUS School of Computing",
           company_url: "https://www.comp.nus.edu.sg/",
           logo_path: "soc.png",
           duration: "Aug 2022 - Dec 2022",
           location: "Kent Ridge, Singapore",
-          description: `Assisted in the development and maintenance of a file management platform. 
-          Investigated all reported user issues and amended existing code accordingly. 
-          Supported data migration and data patching user requests`,
+          description: [
+            "• Assisted in the development and maintenance of a file management platform. ",
+            "• Investigated all reported user issues and amended existing code accordingly. ",
+            "• Supported data migration and data patching user requests",
+          ],
           color: "#0071C5",
         },
         {
@@ -400,9 +402,11 @@ const experience = {
           logo_path: "ncs.png",
           duration: "May 2022 - Aug 2022",
           location: "Ang Mo Kio, Singapore",
-          description: `Assisted in the development and maintenance of a file management platform. 
-          Investigated all reported user issues and amended existing code accordingly. 
-          Supported data migration and data patching user requests`,
+          description: [
+            "• Assisted in the development and maintenance of a file management platform. ",
+            "• Investigated all reported user issues and amended existing code accordingly. ",
+            "• Supported data migration and data patching user requests",
+          ],
           color: "#0071C5",
         },
         {
@@ -412,9 +416,11 @@ const experience = {
           logo_path: "cdl.png",
           duration: "Apr 2017 - Aug 2017",
           location: "Raffles Place, Singapore",
-          description: `Designed and created operational dashboards for service management using Tableau and SAP 
-          Generated data insights impacting operational and tactical decision making for several departments`,
-          color: "#ee3c26",
+          description: [
+            "• Designed and created operational dashboards for service management using Tableau and SAP ",
+            "• Generated data insights impacting operational and tactical decision making for several departments",
+          ],
+          color: "#0071C5",
         },
       ],
     },
@@ -428,8 +434,9 @@ const experience = {
           logo_path: "csc.png",
           duration: "Feb 2021 - Present",
           location: "Commonwealth, Singapore",
-          description: `I am an active member of the L-derly befrienders program by NUS CSC 
-          where I reach out to elderly beneficiaries weekly to assist them with chores and engage them to uplift their spirits.`,
+          description: [
+            "I am an active member of the L-derly befrienders program by NUS CSC, where we reach out to elderly beneficiaries weekly to assist them with chores and engage with them to uplift their spirits.",
+          ],
           color: "#FBBD18",
         },
         {
@@ -439,7 +446,9 @@ const experience = {
           logo_path: "sp.png",
           duration: "Sep 2016 - October 2016",
           location: "Bangkok, Thailand",
-          description: `Learning Express. Took part in an overseas community service program to rural Thailand to help improve daily living conditions`,
+          description: [
+            "Part of the Learning Express program. I played an active role in an overseas community service program to rural Thailand, Bangkok to help improve daily living conditions.",
+          ],
           color: "#4285F4",
         },
       ],
