@@ -34,11 +34,10 @@ const skills = {
       title: "Languages & Databases",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-        "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express & Flask",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+        "• Develop highly interactive Front end / User Interfaces for your web and mobile applications",
+        "• Developing mobile applications using Ionic with Angluar",
+        "• Creating application backend in Jakarta EE, REST and SQL",
+        "• Striving for optimal, flexible, maintable and scalable solutions",
       ],
       softwareSkills: [
         {
@@ -105,9 +104,8 @@ const skills = {
       title: "Tools and FrameWorks",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
+        "• Seeking expand my knowledge of frameworks",
+        "• Experience with Continuous Integration",
       ],
       softwareSkills: [
         {
