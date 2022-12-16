@@ -2,7 +2,7 @@
   "private": true,
   "name": "personalWebsite",
   "version": "1.0.0",
-  "homepage": "http://seancxy.github.io/Personal-Website",
+  "homepage": "http://seancxy.github.io/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
